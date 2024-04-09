@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Education__c</fullName>
+    <externalId>false</externalId>
+    <label>Education</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>BE/B.Tech- Bachelor of Technology</fullName>
+                <default>false</default>
+                <label>BE/B.Tech- Bachelor of Technology</label>
+            </value>
+            <value>
+                <fullName>B.Arch- Bachelor of Architecture</fullName>
+                <default>false</default>
+                <label>B.Arch- Bachelor of Architecture</label>
+            </value>
+            <value>
+                <fullName>BCA- Bachelor of Computer Applications</fullName>
+                <default>false</default>
+                <label>BCA- Bachelor of Computer Applications</label>
+            </value>
+            <value>
+                <fullName>B.Sc.- Information Technology</fullName>
+                <default>false</default>
+                <label>B.Sc.- Information Technology</label>
+            </value>
+            <value>
+                <fullName>B.Sc- Nursing</fullName>
+                <default>false</default>
+                <label>B.Sc- Nursing</label>
+            </value>
+            <value>
+                <fullName>BPharma- Bachelor of Pharmacy</fullName>
+                <default>false</default>
+                <label>BPharma- Bachelor of Pharmacy</label>
+            </value>
+            <value>
+                <fullName>B.Sc- Interior Design</fullName>
+                <default>false</default>
+                <label>B.Sc- Interior Design</label>
+            </value>
+            <value>
+                <fullName>BDS- Bachelor of Dental Surgery</fullName>
+                <default>false</default>
+                <label>BDS- Bachelor of Dental Surgery</label>
+            </value>
+            <value>
+                <fullName>Animation, Graphics and Multimedia</fullName>
+                <default>false</default>
+                <label>Animation, Graphics and Multimedia</label>
+            </value>
+            <value>
+                <fullName>B.Sc. – Nutrition &amp; Dietetics</fullName>
+                <default>false</default>
+                <label>B.Sc. – Nutrition &amp; Dietetics</label>
+            </value>
+            <value>
+                <fullName>BPT- Bachelor of Physiotherapy</fullName>
+                <default>false</default>
+                <label>BPT- Bachelor of Physiotherapy</label>
+            </value>
+            <value>
+                <fullName>B.Sc- Applied Geology</fullName>
+                <default>false</default>
+                <label>B.Sc- Applied Geology</label>
+            </value>
+            <value>
+                <fullName>BA/B.Sc. Liberal Arts</fullName>
+                <default>false</default>
+                <label>BA/B.Sc. Liberal Arts</label>
+            </value>
+            <value>
+                <fullName>B.Sc.- Physics</fullName>
+                <default>false</default>
+                <label>B.Sc.- Physics</label>
+            </value>
+            <value>
+                <fullName>B.Sc. Chemistry</fullName>
+                <default>false</default>
+                <label>B.Sc. Chemistry</label>
+            </value>
+            <value>
+                <fullName>B.Sc. Mathematics</fullName>
+                <default>false</default>
+                <label>B.Sc. Mathematics</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
